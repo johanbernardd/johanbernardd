@@ -1,22 +1,22 @@
-<h1 align="center">Hi there! I'm Johanes Bernard</h1>
+<h1 align="center">Hi there! I'm Johanes</h1>
 <h3 align="center">A passionate Data Scientist from Indonesia🇮🇩</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johanbernardd&label=Profile%20views&color=0e75b6&style=flat" alt="johanbernardd" /> </p>
 
 ### 👋 Little Intro
-I'm **Johanes Paulus Bernard Purek**, a sophomore and passionate Information Systems student at [Faculty of Computer Science at University of Brawijaya](https://www.filkom.ub.ac.id/).
+I'm **Johanes Paulus Bernard Purek**, a final-year Information Systems student at [Faculty of Computer Science at Universitas Brawijaya](https://www.filkom.ub.ac.id/).
 
 ### 👀 What am I interested in?
-- **Data Analysis, Data Science, Business Intelligence**: Participating in many contests such as FindIT UGM 2024.
-- **Machine Learning Applied**: Developing skills in various machine learning algorithm especially in the Supervised and Unsupervised Learning
+- **Data Analysis, Data Science, Business Intelligence**: Doing a lot of projects for the three areas of interest.
+- **ML & DL Applied**: Developing skills in various machine learning and deep learning algorithms.
 
 ### 🌱 What am I learning?
 - **Languages**: Proficient in **Python**, **Java**, **MySQL**, **PHP**, and **Javascript**.
-- **Exploring Others**: Delving into the realms of Probabilistic and Statistical languages like **R** and **MATLAB**.
+- **Exploring Others**: Delving into the realms of Probabilistic and Statistical methodologies.
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a></p>
 
 ### 👨‍💻 Projects
-All of my projects are available at [johanbernardd.github.io](johanbernardd.github.io) (on progress)
+All of my projects are available at this github and also [my personal website](https://johanbernardd.framer.website)
 
 ### 📫 How to reach me ...
 - **Instagram**: [Instagram](https://instagram.com/johanbernardd).
