@@ -26,7 +26,7 @@ Hi there! I'm **Johanes Bernard**, a graduate in Information Systems. I'm passio
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a></p> -->
 
 ### 👨‍💻 Projects
-All of my projects are available on GitHub and also [my personal website](https://johanbernardd.vercel.app). Feel free to reach out using the contact details on my personal website. Outside of work, I enjoy playing football and basketball—it’s my favorite way to unwind and spark new ideas for complex projects. 
+All of my projects are available on [my personal website](https://johanbernardd.vercel.app). Feel free to reach out using the contact details on my personal website. Outside of work, I enjoy playing football and basketball—it’s my favorite way to unwind and spark new ideas for complex projects. 
 
 <!-- ### 📈 My Progress <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=johanbernardd&show_icons=true&locale=en" alt="johanbernardd" /></p> -->
 
