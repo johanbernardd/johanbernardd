@@ -12,7 +12,7 @@ Hi there! I'm **Johanes Bernard**, a graduate in Information Systems. I'm passio
 
 ### 🌱 What am I learning?
 - **Technical**: Proficient in **Python**, **SQL**, **Excel**, and **Visualization Platforms (Looker Studio, Tableau, Power BI)**.
-- **Exploring Others**: Delving into the realms of applied math (probabilistic-statistical and time-series) methodologies, LLMs, and Agentic AI.
+- **Exploring Others**: Delving into the realms of applied math (probabilistic-statistical and time-series) methodologies, LLMs, and Agentic AI. I love learning through scientific papers/articles.
 - **Playground**: I usually work by using modern technology tools like VSCode, Git, and Figma.  
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
   <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">  -->
