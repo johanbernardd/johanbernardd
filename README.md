@@ -1,10 +1,10 @@
-<h1 align="center">Hi there! I'm Johanes</h1>
-<h3 align="center">A passionate Data Analyst and Data Engineer from Indonesia🇮🇩</h3>
+<!-- <h1 align="center">Hi there! I'm Johanes</h1>
+<h3 align="center">A passionate Data Analyst and Data Engineer from Indonesia🇮🇩</h3> -->
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=johanbernardd&label=Profile%20views&color=0e75b6&style=flat" alt="johanbernardd" /> </p> -->
 
 ### 👋 Little Intro
-I'm **Johanes Bernard**, a graduate in Information Systems at [Faculty of Computer Science at Universitas Brawijaya](https://www.filkom.ub.ac.id/).
+Hi there! I'm **Johanes Bernard**, a graduate in Information Systems at [Faculty of Computer Science at Universitas Brawijaya](https://www.filkom.ub.ac.id/). I'm passionate about being a Data Analyst and Data Engineer.
 
 ### 👀 What am I interested in?
 - **Data Analysis, Business Intelligence, and Data Engineering**: Doing a lot of projects in these three areas of interest.
