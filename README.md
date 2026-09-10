@@ -4,7 +4,7 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=johanbernardd&label=Profile%20views&color=0e75b6&style=flat" alt="johanbernardd" /> </p> -->
 
 ### 👋 Little Intro
-Hi there! I'm **Johanes Bernard**, a graduate in Information Systems at [Faculty of Computer Science at Universitas Brawijaya](https://www.filkom.ub.ac.id/). I'm passionate about being a Data Analyst and Data Engineer.
+Hi there! I'm **Johanes Bernard**, a graduate in Information Systems at [FILKOM UB](https://www.filkom.ub.ac.id/). I'm passionate about being a Data Analyst and Data Engineer. Furthermore, I develop my analytical and business skills through research and practical application in real-world industry scenarios.
 
 ### 👀 What am I interested in?
 - **Data Analysis, Business Intelligence, and Data Engineering**: Doing a lot of projects in these three areas of interest.
@@ -12,7 +12,7 @@ Hi there! I'm **Johanes Bernard**, a graduate in Information Systems at [Faculty
 
 ### 🌱 What am I learning?
 - **Technical**: Proficient in **Python**, **SQL**, **Excel**, and **Visualization Platforms (Looker Studio, Tableau, Power BI)**.
-- **Exploring Others**: Delving into the realms of Probabilistic-Statistical methodologies and Agentic AI.
+- **Exploring Others**: Delving into the realms of applied math (probabilistic-statistical and time-series) methodologies, LLMs, and Agentic AI.
 - **Playground**: I usually work by using modern technology tools like VSCode, Git, and Figma.  
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
   <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">  -->
