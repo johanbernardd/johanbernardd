@@ -4,7 +4,7 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=johanbernardd&label=Profile%20views&color=0e75b6&style=flat" alt="johanbernardd" /> </p> -->
 
 ### 👋 Little Intro
-Hi there! I'm **Johanes Bernard**, a graduate in Information Systems at [FILKOM UB](https://www.filkom.ub.ac.id/). I'm passionate about being a Data Analyst and Data Engineer. Furthermore, I develop my analytical and business skills through research and practical application in real-world industry scenarios.
+Hi there! I'm **Johanes Bernard**, a graduate in Information Systems. I'm passionate about being a Data Analyst and Data Engineer. Furthermore, I develop my analytical and business skills through research and practical application in real-world industry scenarios.
 
 ### 👀 What am I interested in?
 - **Data Analysis, Business Intelligence, and Data Engineering**: Doing a lot of projects in these three areas of interest.
